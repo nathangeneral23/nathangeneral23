@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NG235
 - 👀 I’m interested in Microservices, Go, APIs, Backend Infrastructure
-- 🌱 I’m currently learning Ruby (and Ruby on Rails)
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on frameworks and useful libraries
 - 📫 How to reach me: Twitter @nathangeneral23
 
