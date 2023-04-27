@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NG235
+- 👋 Hi, I’m @nathangeneral23
 - 👀 I’m interested in Microservices, Go, Rust, APIs, Backend Infrastructure
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on frameworks and useful libraries
