@@ -5,6 +5,6 @@
 - 📫 How to reach me: Twitter @nathangeneral23
 
 <!---
-NG235/NG235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nathangeneral23/nathangeneral23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
